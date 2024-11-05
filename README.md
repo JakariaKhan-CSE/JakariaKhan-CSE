@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/103401101?s=400&u=c059d97eaee5898bde5577971a2ea83893c58837&v=4" width="150" height="150" style="border-radius:50%" alt="Md. Jakaria Ibna Azam Khan">
+ <img src="./profile.png"  style="border-radius:10%" alt="Md. Jakaria Ibna Azam Khan">
+
 </p>
 
 <h1 align="center">Md. Jakaria Ibna Azam Khan</h1>
