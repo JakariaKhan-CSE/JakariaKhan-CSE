@@ -1,5 +1,5 @@
 <p align="center">
- <img src="./profile.png"  width="900" height="530" style="border-radius:20px;"  alt="Md. Jakaria Ibna Azam Khan">
+ <img src="./profile.png"  width="900" height="510" style="border-radius:20px;"  alt="Md. Jakaria Ibna Azam Khan">
 
 </p>
 
