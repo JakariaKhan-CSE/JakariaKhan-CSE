@@ -74,3 +74,4 @@ An e-commerce platform supporting user authentication, product browsing, and ord
 ---
 
 Feel free to reach out for collaboration or inquiries. I’m always excited to work on innovative projects and contribute to open-source communities!
+https://jakariakhan-cse.github.io/JakariaKhan-CSE/
