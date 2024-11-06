@@ -49,11 +49,18 @@ An Android app recommending rest areas in Bangladesh's Khulna division. It provi
 ### 🔹 [JUST Medical Center System](https://github.com/username/medical-center-system)
 A role-based healthcare management app for Android and web, designed for various roles such as Patient, Doctor, Pharmacist, Lab Technician, and Super Admin, using Flutter for frontend and Node.js for backend.
 
+### 🔹 [Job Finder Full Stack App](https://github.com/JakariaKhan-CSE/Job-Finder-App-Frontend)
+A full-stack job finder application with features for admins and applicants, including chat functionality, profile management, and job postings. Built with Flutter and Node.js, leveraging Firebase for secure data handling.
+
+### 🔹 [E-Commerce Website](https://github.com/JakariaKhan-CSE/voucher-system-e-commerce-app)
+An e-commerce platform supporting user authentication, product browsing, and order management. Developed with Flutter for the frontend and Node.js and MongoDB for the backend.
+
+
 ---
 
-# 📈 GitHub Stats
+<!-- # 📈 GitHub Stats -->
 
-![Md. Jakaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+<!-- ![Md. Jakaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical) -->
 
 ---
 
